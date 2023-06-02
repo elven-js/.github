@@ -8,3 +8,10 @@ Elven.js is a simplified JS SDK wrapper. No build steps are required. You can al
 ### Check out the docs and demo:
 - [Static website demo](https://elvenjs.netlify.app/)
 - [Elven.js docs](https://www.elvenjs.com)
+
+Contact:
+- [Twitter](https://twitter.com/JulianCwirko)
+
+Please also check:
+- [Elven.js (elvenjs.com)](https://github.com/elven-js) - compact browser library for interacting with the MultiversX blockchain and smart contracts. No build steps are required. You can also use it directly from CDN on a static website.
+- [Elven Tools (elven.tools)](https://github.com/elventools) - the Elven Tools includes smart contracts (NFT/SFT), CLI tool, and minter dapp for NFT launches. Every part of it can be used as a separate tool.
